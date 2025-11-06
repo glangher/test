@@ -1,2 +1,0 @@
-# test
-zona de testare
